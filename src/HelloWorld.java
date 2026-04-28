@@ -5,7 +5,7 @@ public class HelloWorld {
 	public static void main(String[] args) {
 		// メインメソッド
 
-		int i = 20;
+		int i = 40;
 		
 		i++;
 		
